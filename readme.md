@@ -15,7 +15,7 @@ A comprehensive tool to scrape and format content from websites, YouTube videos,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/content-scraper
+git clone https://github.com/DevlopRishi/content-scraper
 cd content-scraper
 ```
 
