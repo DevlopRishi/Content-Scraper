@@ -2,7 +2,7 @@
 
 A comprehensive tool to scrape and format content from websites, YouTube videos, and PDFs, specifically designed for collecting and formatting information.
 
-## Features
+## List of all Features
 
 - Web scraping from any website including subpages
 - YouTube channel/video content extraction
