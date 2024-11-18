@@ -1,4 +1,4 @@
-# Content Scraper and Formatter free
+# Content Scraper and Formatter
 
 A comprehensive tool to scrape and format content from websites, YouTube videos, and PDFs, specifically designed for collecting and formatting information.
 
